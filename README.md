@@ -54,7 +54,6 @@ Master the art of preparing data for analysis and modeling. Understand technique
 - **Reference:** [ipnyb file link](Exploratory_Data_Analysis.ipynb)
 
 ### Feature Engineering - February 1, 2024
-![Frank](images/Frank.png)
 Enhance your understanding of feature engineering, a crucial aspect of building robust machine learning models. Explore methods to create new features, transform existing ones, and optimize the representation of data to improve model performance.
 - **Facilitator:** [Felix Frank-Felix](https://www.linkedin.com/in/frankfelixai/)
 - **Date:** February 1, 2024
